@@ -1,0 +1,9 @@
+MaxLevel: 8
+Level: 1;LevelCost: 200;AntSpeed: 0;WaitTime: 3000;NumAnts: 0;
+Level: 2;LevelCost: 400;AntSpeed: 1;WaitTime: 2500;NumAnts: 1;
+Level: 3;LevelCost: 800;AntSpeed: 1;WaitTime: 2250;NumAnts: 1;
+Level: 4;LevelCost: 1600;AntSpeed: 1;WaitTime: 2000;NumAnts: 1;
+Level: 5;LevelCost: 3200;AntSpeed: 1;WaitTime: 1750;NumAnts: 1;
+Level: 6;LevelCost: 6400;AntSpeed: 2;WaitTime: 1500;NumAnts: 1;
+Level: 7;LevelCost: 12800;AntSpeed: 2;WaitTime: 1250;NumAnts: 2;
+Level: 8;LevelCost: 25600;AntSpeed: 3;WaitTime: 1000;NumAnts: 2;

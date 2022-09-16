@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Ian%27s .cpps">
+      <UniqueIdentifier>{3295b728-dbef-4a12-ac5a-e208d55fab93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Ian%27s .h%27s">
+      <UniqueIdentifier>{e762bf49-b94c-4dee-afbb-48a0ba32f7df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Original .h%27s">
+      <UniqueIdentifier>{da3d1017-44aa-4aae-a30d-17e3df66fc26}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Harry%27s .h%27s">
+      <UniqueIdentifier>{f8270df1-4006-40a9-9ad3-920183bbd5a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Original .cpp%27s">
+      <UniqueIdentifier>{3ea72c02-6c96-4b0c-8a85-9631fab55c96}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Harry%27s .cpps">
+      <UniqueIdentifier>{1c64e027-1c78-4b44-8b0a-8df478fdc034}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="TextReader.cpp">
+      <Filter>Source Files\Ian%27s .cpps</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files\Original .cpp%27s</Filter>
+    </ClCompile>
+    <ClCompile Include="GameEventListener.cpp">
+      <Filter>Source Files\Original .cpp%27s</Filter>
+    </ClCompile>
+    <ClCompile Include="GameEvents.cpp">
+      <Filter>Source Files\Original .cpp%27s</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphicsBufferManager.cpp">
+      <Filter>Source Files\Original .cpp%27s</Filter>
+    </ClCompile>
+    <ClCompile Include="InputTranslator.cpp">
+      <Filter>Source Files\Original .cpp%27s</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files\Original .cpp%27s</Filter>
+    </ClCompile>
+    <ClCompile Include="SpriteManager.cpp">
+      <Filter>Source Files\Original .cpp%27s</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit.cpp">
+      <Filter>Source Files\Original .cpp%27s</Filter>
+    </ClCompile>
+    <ClCompile Include="UnitManager.cpp">
+      <Filter>Source Files\Original .cpp%27s</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelingSystem.cpp">
+      <Filter>Source Files\Ian%27s .cpps</Filter>
+    </ClCompile>
+    <ClCompile Include="Shop.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ClickListener.cpp">
+      <Filter>Source Files\Harry%27s .cpps</Filter>
+    </ClCompile>
+    <ClCompile Include="BiscuitClickListener.cpp">
+      <Filter>Source Files\Harry%27s .cpps</Filter>
+    </ClCompile>
+    <ClCompile Include="Biscuit.cpp">
+      <Filter>Source Files\Harry%27s .cpps</Filter>
+    </ClCompile>
+    <ClCompile Include="Ant.cpp">
+      <Filter>Source Files\Harry%27s .cpps</Filter>
+    </ClCompile>
+    <ClCompile Include="AntClickListener.cpp">
+      <Filter>Source Files\Harry%27s .cpps</Filter>
+    </ClCompile>
+    <ClCompile Include="ButtonClickListner.cpp">
+      <Filter>Source Files\Ian%27s .cpps</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>Source Files\Ian%27s .cpps</Filter>
+    </ClCompile>
+    <ClCompile Include="ButtonManager.cpp">
+      <Filter>Source Files\Ian%27s .cpps</Filter>
+    </ClCompile>
+    <ClCompile Include="Text.cpp">
+      <Filter>Source Files\Ian%27s .cpps</Filter>
+    </ClCompile>
+    <ClCompile Include="AntSpawner.cpp">
+      <Filter>Source Files\Harry%27s .cpps</Filter>
+    </ClCompile>
+    <ClCompile Include="GameState.cpp">
+      <Filter>Source Files\Ian%27s .cpps</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenuState.cpp">
+      <Filter>Source Files\Ian%27s .cpps</Filter>
+    </ClCompile>
+    <ClCompile Include="GameplayState.cpp">
+      <Filter>Source Files\Ian%27s .cpps</Filter>
+    </ClCompile>
+    <ClCompile Include="AutoClicker.cpp">
+      <Filter>Source Files\Harry%27s .cpps</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundSystem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OptionsState.cpp">
+      <Filter>Source Files\Ian%27s .cpps</Filter>
+    </ClCompile>
+    <ClCompile Include="Language.cpp">
+      <Filter>Source Files\Ian%27s .cpps</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>Source Files\Original .cpp%27s</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimationManager.cpp">
+      <Filter>Source Files\Original .cpp%27s</Filter>
+    </ClCompile>
+    <ClCompile Include="DifficultyState.cpp">
+      <Filter>Source Files\Ian%27s .cpps</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="TextReader.h">
+      <Filter>Header Files\Ian%27s .h%27s</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Header Files\Original .h%27s</Filter>
+    </ClInclude>
+    <ClInclude Include="GameEventListener.h">
+      <Filter>Header Files\Original .h%27s</Filter>
+    </ClInclude>
+    <ClInclude Include="GameEvents.h">
+      <Filter>Header Files\Original .h%27s</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphicsBufferManager.h">
+      <Filter>Header Files\Original .h%27s</Filter>
+    </ClInclude>
+    <ClInclude Include="InputTranslator.h">
+      <Filter>Header Files\Original .h%27s</Filter>
+    </ClInclude>
+    <ClInclude Include="SpriteManager.h">
+      <Filter>Header Files\Original .h%27s</Filter>
+    </ClInclude>
+    <ClInclude Include="Unit.h">
+      <Filter>Header Files\Original .h%27s</Filter>
+    </ClInclude>
+    <ClInclude Include="UnitManager.h">
+      <Filter>Header Files\Original .h%27s</Filter>
+    </ClInclude>
+    <ClInclude Include="Biscuit.h">
+      <Filter>Header Files\Harry%27s .h%27s</Filter>
+    </ClInclude>
+    <ClInclude Include="BiscuitClickListener.h">
+      <Filter>Header Files\Harry%27s .h%27s</Filter>
+    </ClInclude>
+    <ClInclude Include="ClickListener.h">
+      <Filter>Header Files\Harry%27s .h%27s</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelingSystem.h">
+      <Filter>Header Files\Ian%27s .h%27s</Filter>
+    </ClInclude>
+    <ClInclude Include="Shop.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Ant.h">
+      <Filter>Header Files\Harry%27s .h%27s</Filter>
+    </ClInclude>
+    <ClInclude Include="AntClickListener.h">
+      <Filter>Header Files\Harry%27s .h%27s</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>Header Files\Ian%27s .h%27s</Filter>
+    </ClInclude>
+    <ClInclude Include="ButtonClickListener.h">
+      <Filter>Header Files\Ian%27s .h%27s</Filter>
+    </ClInclude>
+    <ClInclude Include="ButtonManager.h">
+      <Filter>Header Files\Ian%27s .h%27s</Filter>
+    </ClInclude>
+    <ClInclude Include="Text.h">
+      <Filter>Header Files\Ian%27s .h%27s</Filter>
+    </ClInclude>
+    <ClInclude Include="AntSpawner.h">
+      <Filter>Header Files\Harry%27s .h%27s</Filter>
+    </ClInclude>
+    <ClInclude Include="GameState.h">
+      <Filter>Header Files\Ian%27s .h%27s</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenuState.h">
+      <Filter>Header Files\Ian%27s .h%27s</Filter>
+    </ClInclude>
+    <ClInclude Include="GameplayState.h">
+      <Filter>Header Files\Ian%27s .h%27s</Filter>
+    </ClInclude>
+    <ClInclude Include="AutoClicker.h">
+      <Filter>Header Files\Harry%27s .h%27s</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundSystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OptionsState.h">
+      <Filter>Header Files\Ian%27s .h%27s</Filter>
+    </ClInclude>
+    <ClInclude Include="Language.h">
+      <Filter>Header Files\Ian%27s .h%27s</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation.h">
+      <Filter>Header Files\Original .h%27s</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimationManager.h">
+      <Filter>Header Files\Original .h%27s</Filter>
+    </ClInclude>
+    <ClInclude Include="DifficultyState.h">
+      <Filter>Header Files\Ian%27s .h%27s</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

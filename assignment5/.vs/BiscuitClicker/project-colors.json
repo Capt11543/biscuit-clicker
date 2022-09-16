@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ec58da42-88da-4b82-bfc4-ae6d5219f837": {
+      "ProjectGuid": "ec58da42-88da-4b82-bfc4-ae6d5219f837",
+      "DisplayName": "assignment5",
+      "ColorIndex": 0
+    },
+    "db900e08-5331-46d6-b450-6775a2c7c856": {
+      "ProjectGuid": "db900e08-5331-46d6-b450-6775a2c7c856",
+      "DisplayName": "DeanLib",
+      "ColorIndex": 1
+    },
+    "4b9ab2da-44cb-4f3d-866f-fa7f345bd810": {
+      "ProjectGuid": "4b9ab2da-44cb-4f3d-866f-fa7f345bd810",
+      "DisplayName": "GraphicsLib",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

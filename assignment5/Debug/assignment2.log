@@ -1,0 +1,37 @@
+﻿  Animation.cpp
+  AnimationManager.cpp
+  Ant.cpp
+  AntClickListener.cpp
+  AntSpawner.cpp
+  AutoClicker.cpp
+  Biscuit.cpp
+  BiscuitClickListener.cpp
+  Button.cpp
+  ButtonClickListner.cpp
+  ButtonManager.cpp
+  ClickListener.cpp
+  DifficultyState.cpp
+  Game.cpp
+  GameEventListener.cpp
+  GameEvents.cpp
+  GameplayState.cpp
+  GameState.cpp
+  GraphicsBufferManager.cpp
+  InputTranslator.cpp
+  Generating Code...
+  Compiling...
+  Language.cpp
+  LevelingSystem.cpp
+  main.cpp
+  MainMenuState.cpp
+  OptionsState.cpp
+  Shop.cpp
+  SoundSystem.cpp
+  SpriteManager.cpp
+  Text.cpp
+  TextReader.cpp
+  Unit.cpp
+  UnitManager.cpp
+  Generating Code...
+C:\Users\henry.dorer\source\repos\fa21-gpr250\ian.melvin.harry.dorer.neo.kattan\assignment5\Language.cpp(50): warning C4715: 'Language::getTextAt': not all control paths return a value
+  assignment2.vcxproj -> C:\Users\henry.dorer\source\repos\fa21-gpr250\ian.melvin.harry.dorer.neo.kattan\assignment5\Debug\assignment5.exe
