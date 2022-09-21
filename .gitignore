@@ -34,3 +34,5 @@
 .vs/
 x64/
 Cortex/yaml-cpp-yaml-cpp-0.6.0/
+.vscode/
+Debug/
